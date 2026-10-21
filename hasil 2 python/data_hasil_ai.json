@@ -1,0 +1,93 @@
+{
+    "status": "Success",
+    "total_diterima": 4,
+    "total_ditolak": 1,
+    "total_database": 4,
+    "file_output": "D:\\DATA UTAMA\\Documents\\Radhika (kampus)\\sempro\\python code\\data_hasil_ai.json",
+    "data_hasil_ai": [
+        {
+            "id_postingan": "3994635441875182040",
+            "timestamp": "2026-09-26T10:14:38.000Z",
+            "lokasi": "",
+            "url_asli": "https://www.instagram.com/p/Ddvy8UYJ-HY/",
+            "url_gambar": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/825322315_17982768375105937_3993087992970913694_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5NDYzNTQ0MTg3NTE4MjA0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gUsZh8GAsYwQ7kNvwFOSnmb&_nc_oc=AdoGHOz2nZzoKBuq-S1CtHSo-LcNcHt33ftzes7npzVGF7jL3tDj4znB-Qjr5J4qbub5Acy8ocpDCWkjw9olKILQ&_nc_ad=z-m&_nc_cid=1698&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=_tH7MJMcKs8CxcTr6kAIhg&_nc_ss=7a22e&oh=00_AQJzaGbg9IXElY_nJK-YEuy1NnhZrVgqGHz4JFxUV8wpsQ&oe=6ABE4B07",
+            "tipe_media": "Image",
+            "caption_bersih": "Seorang anak kelas 5 SD dilaporkan hilang terseret arus saat berenang di Pantai Gerokgak, Buleleng, Bali, Kamis (24/9). Kejadian bermula saat korban bersama dua orang anak lainnya berenang di Pantai Gerokgak dengan menggunakan styrofoam sekitar pukul 16.00 wita. Kemudian ketiganya terseret arus ke arah tengah laut. Dua anak berhasil diselamatkan masyarakat, sementara satu anak terseret arus dan menghilang. Menindaklanjuti laporan tersebut, Tim SAR gabungan berkordinasi dengan polisi setempat dan keluarga korban untuk langsung melakukan pencarian. Namun hingga hari kedua pencarian, Jumat (25/9) korban belum dapat ditemukan. Proses pencarian masih terus dilanjutkan pada hari ini. Semoga korban segera bisa ditemukan 🙏 Sumber:",
+            "komentar_teratas": "",
+            "teks_vector": "Seorang anak kelas 5 SD dilaporkan hilang terseret arus saat berenang di Pantai Gerokgak, Buleleng, Bali, Kamis (24/9). Kejadian bermula saat korban bersama dua orang anak lainnya berenang di Pantai Gerokgak dengan menggunakan styrofoam sekitar pukul 16.00 wita. Kemudian ketiganya terseret arus ke arah tengah laut. Dua anak berhasil diselamatkan masyarakat, sementara satu anak terseret arus dan menghilang. Menindaklanjuti laporan tersebut, Tim SAR gabungan berkordinasi dengan polisi setempat dan keluarga korban untuk langsung melakukan pencarian. Namun hingga hari kedua pencarian, Jumat (25/9) korban belum dapat ditemukan. Proses pencarian masih terus dilanjutkan pada hari ini. Semoga korban segera bisa ditemukan 🙏 Sumber:",
+            "jumlah_like": 78,
+            "jumlah_komentar": 0,
+            "hasil_ai": {
+                "id_postingan": "3994635441875182040",
+                "kategori": "Kecelakaan",
+                "lokasi_terdeteksi": "Pantai Gerokgak, Buleleng",
+                "ringkasan_ai": "Seorang anak kelas 5 SD hilang terseret arus saat berenang di Pantai Gerokgak, Buleleng. Dua teman lainnya berhasil diselamatkan, namun korban belum ditemukan hingga hari kedua pencarian oleh Tim SAR gabungan.",
+                "validitas": "Accept",
+                "topik": "Anak hilang terseret arus"
+            }
+        },
+        {
+            "id_postingan": "3994701566847715966",
+            "timestamp": "2026-09-26T12:33:56.000Z",
+            "lokasi": "",
+            "url_asli": "https://www.instagram.com/p/DdwB-kDp4p-/",
+            "url_gambar": "https://scontent-icn2-1.cdninstagram.com/v/t51.71878-15/825320346_2086275455615070_4516325492082663870_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk5NDcwMTU2Njg0NzcxNTk2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=hA-mjOvJhGgQ7kNvwGBcc58&_nc_oc=AdrAqMGnl_zzZY3D_MxLqVmIJWtHMJpt6rVCAcclLV2UWPH4hEBMuk6xxP7tUmYeU5E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=BPPksEtZHc3vqUkqBS1tow&_nc_ss=7a22e&oh=00_AQJZw6iEL1B0lwU-PHru19eANFMJ4ap8QhILv_uwawE_9Q&oe=6ABE514D",
+            "tipe_media": "Video",
+            "caption_bersih": "Imbas aksi blokade yang dilakukan sopir truk di Pelabuhan Ketapang, Banyuwangi, layanan penyebarangan Ketapang-Gilimanuk lumpuh sementara, Sabtu (26/9). Para pengguna jasa penyebrangan kini masih menunggu tindak lanjut dari para pemangku kewenangan terkait kondisi tersebut. Diketahui, para sopir truk sebelumnya melakukan protes dan keluhan terkait antrean panjang penyebrangan Ketapang Gilimanuk yang terjadi berulang kali dan berlangsung selama berbulan-bulan. Dalam situasi tersebut, para sopir mengancam akan melakukan blokade atau pemblokiran akses keluar masuk Pelabuhan Ketapang selama tiga hari kedepan apabila tidak ada solusi yang jelas terkait kelancaran operasional kendaraan dari pihak berwenang. Semoga segera ada solusi dan langkah konkret agar layanan penyebrangan bisa dapat kembali berjalan normal 🙏 📽️ .pradnyaa Via",
+            "komentar_teratas": "Semoga hari ini lancar, Aamiin.. | Pejabat2 e goblok kabehhhh👏 | 🔥 LAMPU MOBIL KUSAM & BURAM? Jangan buru-buru ganti! 😎 ✨ Poles Lampu Bali ID bikin lampu kembali bening, fresh & kinclong! 💰 Lebih hemat, tampilan makin keren! 🏠 BISA HOME SERVICE — AREA BALI! Gak perlu repot datang, kami yang datang ke tempat kamu! 🚗💨 📲 Chat sekarang & booking! 💡 Poles Lampu Bali ID — lampu bening, mobil makin ganteng! | Negara ini bukan nya tambah maju......Dari hari k hari malah tambah mundur....😢 | I wayan mendep gen ye,,nu punyah jeleme to.. | seraaaaaam bgt | Kalian aja yg komen,aku capek dari jam 6 sore sampe malam ini masih terjebak macet,udah capek jauh2 dr Semarang,sampe Ketapang ketemu ginian,aruuuh kenyel Gati puk | macet sampe nunggu berjam2 bolo | Selama pelabuhan Gilimanuk tidak menambah dermaga dan memperluas kapasitas hal seperti akan terus terjadi, kalau jembatan Jawa Bali sudah jelas tidak memungkinkan, sebegitu beratkah anggaran pemerintah untuk pembangunan penambahan dermaga, seperti ini kalau negara hanya sibuk dengan program MBGnya | Masalah apa sebenarnya | .wcksn slamet wes mulih lur | Untung paginya masih lancar jaya | Wajar protes ga sih, cuaca lagi panas ekstrim kaya gini siapa yg tahan kejemur berjam-jam di dalam truk? Jahat sih mereka! Sopir truk itu paling kasian kadang, dapet mobil jelek dr perusahaan, kalo mo isi bensin solar harus antri berjam2 dan ga semua pom bensin ada, di pelabuhan dikerjain antri berjam2 lg, belom lg kena resiko pungli. Yg sabar ya pak sopir hadiahnya surga jalur WNI | Ada Apa Dengan Truk! 🤯 | susah kl gini...kok mengatasi gini aja berlarut2...logistik pasti rugi...kmna pihak berwenang ini...",
+            "teks_vector": "Imbas aksi blokade yang dilakukan sopir truk di Pelabuhan Ketapang, Banyuwangi, layanan penyebarangan Ketapang-Gilimanuk lumpuh sementara, Sabtu (26/9). Para pengguna jasa penyebrangan kini masih menunggu tindak lanjut dari para pemangku kewenangan terkait kondisi tersebut. Diketahui, para sopir truk sebelumnya melakukan protes dan keluhan terkait antrean panjang penyebrangan Ketapang Gilimanuk yang terjadi berulang kali dan berlangsung selama berbulan-bulan. Dalam situasi tersebut, para sopir mengancam akan melakukan blokade atau pemblokiran akses keluar masuk Pelabuhan Ketapang selama tiga hari kedepan apabila tidak ada solusi yang jelas terkait kelancaran operasional kendaraan dari pihak berwenang. Semoga segera ada solusi dan langkah konkret agar layanan penyebrangan bisa dapat kembali berjalan normal 🙏 📽️ .pradnyaa Via\nKomentar netizen: Semoga hari ini lancar, Aamiin.. | Pejabat2 e goblok kabehhhh👏 | 🔥 LAMPU MOBIL KUSAM & BURAM? Jangan buru-buru ganti! 😎 ✨ Poles Lampu Bali ID bikin lampu kembali bening, fresh & kinclong! 💰 Lebih hemat, tampilan makin keren! 🏠 BISA HOME SERVICE — AREA BALI! Gak perlu repot datang, kami yang datang ke tempat kamu! 🚗💨 📲 Chat sekarang & booking! 💡 Poles Lampu Bali ID — lampu bening, mobil makin ganteng! | Negara ini bukan nya tambah maju......Dari hari k hari malah tambah mundur....😢 | I wayan mendep gen ye,,nu punyah jeleme to.. | seraaaaaam bgt | Kalian aja yg komen,aku capek dari jam 6 sore sampe malam ini masih terjebak macet,udah capek jauh2 dr Semarang,sampe Ketapang ketemu ginian,aruuuh kenyel Gati puk | macet sampe nunggu berjam2 bolo | Selama pelabuhan Gilimanuk tidak menambah dermaga dan memperluas kapasitas hal seperti akan terus terjadi, kalau jembatan Jawa Bali sudah jelas tidak memungkinkan, sebegitu beratkah anggaran pemerintah untuk pembangunan penambahan dermaga, seperti ini kalau negara hanya sibuk dengan program MBGnya | Masalah apa sebenarnya | .wcksn slamet wes mulih lur | Untung paginya masih lancar jaya | Wajar protes ga sih, cuaca lagi panas ekstrim kaya gini siapa yg tahan kejemur berjam-jam di dalam truk? Jahat sih mereka! Sopir truk itu paling kasian kadang, dapet mobil jelek dr perusahaan, kalo mo isi bensin solar harus antri berjam2 dan ga semua pom bensin ada, di pelabuhan dikerjain antri berjam2 lg, belom lg kena resiko pungli. Yg sabar ya pak sopir hadiahnya surga jalur WNI | Ada Apa Dengan Truk! 🤯 | susah kl gini...kok mengatasi gini aja berlarut2...logistik pasti rugi...kmna pihak berwenang ini...",
+            "jumlah_like": 216,
+            "jumlah_komentar": 25,
+            "hasil_ai": {
+                "id_postingan": "3994701566847715966",
+                "kategori": "Lalu Lintas/Macet",
+                "lokasi_terdeteksi": "Pelabuhan Ketapang-Gilimanuk",
+                "ringkasan_ai": "Layanan penyeberangan Ketapang-Gilimanuk lumpuh akibat blokade sopir truk di Pelabuhan Ketapang. Blokade ini merupakan protes terhadap antrean panjang yang berulang kali terjadi, menyebabkan kemacetan parah dan kerugian logistik.",
+                "validitas": "Accept",
+                "topik": "Blokade Pelabuhan Ketapang-Gilimanuk"
+            }
+        },
+        {
+            "id_postingan": "3994526061842161708",
+            "timestamp": "2026-09-26T06:43:50.000Z",
+            "lokasi": "",
+            "url_asli": "https://www.instagram.com/p/DdvaEoSJGAs/",
+            "url_gambar": "https://scontent-ham3-1.cdninstagram.com/v/t51.71878-15/825322132_1050930994613081_7320781322055993014_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk5NDUyNjA2MTg0MjE2MTcwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=oPFuSnvQkjgQ7kNvwGaBd1L&_nc_oc=AdqseRrsvBBLxoYrhj1GekYcXgbHifkt84ZBGZW3v9yu52KDSaN0GzsUFrs1E5OFX8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_gid=ObRCrac-jgSowtlxf6ccvw&_nc_ss=7a22e&oh=00_AQKBk5HSZzxv7k1Ij6Uhj8Cri-XQLh9BorGmk6PMJOuZbw&oe=6ABE6782",
+            "tipe_media": "Video",
+            "caption_bersih": "Dilaporkan sebuah truk gagal menanjak di Jalan Desa Laplapan, Pejeng Kawan, Gianyar, Sabtu (26/9). Terlihat truk sampai terangkat pada bagian depan dan kendaraan lain harus berhati-hati saat melintas. Via",
+            "komentar_teratas": "Truknya Nge Glicth kayak seperti Game GTA San Andreas deh! 😅😂🤣 | Ya ga usah wheelie gitu bro biasa ajaaa 😂 | 😂😂😂😂",
+            "teks_vector": "Dilaporkan sebuah truk gagal menanjak di Jalan Desa Laplapan, Pejeng Kawan, Gianyar, Sabtu (26/9). Terlihat truk sampai terangkat pada bagian depan dan kendaraan lain harus berhati-hati saat melintas. Via\nKomentar netizen: Truknya Nge Glicth kayak seperti Game GTA San Andreas deh! 😅😂🤣 | Ya ga usah wheelie gitu bro biasa ajaaa 😂 | 😂😂😂😂",
+            "jumlah_like": 25,
+            "jumlah_komentar": 3,
+            "hasil_ai": {
+                "id_postingan": "3994526061842161708",
+                "kategori": "Lalu Lintas/Macet",
+                "lokasi_terdeteksi": "Jalan Desa Laplapan, Pejeng Kawan, Gianyar",
+                "ringkasan_ai": "Sebuah truk dilaporkan gagal menanjak di Jalan Desa Laplapan, Pejeng Kawan, Gianyar. Kondisi truk yang terangkat bagian depan mengharuskan kendaraan lain berhati-hati saat melintas.",
+                "validitas": "Accept",
+                "topik": "Truk gagal menanjak Gianyar"
+            }
+        },
+        {
+            "id_postingan": "3995062203878079238",
+            "timestamp": "2026-09-27T00:24:27.000Z",
+            "lokasi": "",
+            "url_asli": "https://www.instagram.com/p/DdxT-hdvfsG/",
+            "url_gambar": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/825909932_17982877848105937_2723391535701932715_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk5NTA2MjIwMzg3ODA3OTIzODE3OTgyODc3ODQ1MTA1OTM3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjgyOC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=2ZSVL5ShiRcQ7kNvwHzvonZ&_nc_oc=AdoTREdqxi_lK0CQ06xQSaw0kcWlZooue0yfo2Pd5rWcAHu5pveRHjwb9QyWf5zIzjZa4C_M6Pvao50zQR-S44LA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=HC_OPVyO9ZhOG816uEw0uw&_nc_ss=7a22e&oh=00_AQKmi6di3oGhJRhuyzInYw-q0WtFEuWy91hq7S37eBpgfQ&oe=6ABE5667",
+            "tipe_media": "Video",
+            "caption_bersih": "Setelah keliling mencari gas melon sekitar 20 menit, warga ini justru menemukan tabung gas yang dicari malah ketemu di jalan. 😅 Pernah mengalami hal serupa, Semeton?",
+            "komentar_teratas": "Pas dapat gas harga ne 30🤦‍♂️",
+            "teks_vector": "Setelah keliling mencari gas melon sekitar 20 menit, warga ini justru menemukan tabung gas yang dicari malah ketemu di jalan. 😅 Pernah mengalami hal serupa, Semeton?\nKomentar netizen: Pas dapat gas harga ne 30🤦‍♂️",
+            "jumlah_like": 70,
+            "jumlah_komentar": 1,
+            "hasil_ai": {
+                "id_postingan": "3995062203878079238",
+                "kategori": "Layanan Publik",
+                "lokasi_terdeteksi": "Tidak Spesifik",
+                "ringkasan_ai": "Seorang warga kesulitan mencari gas melon dan akhirnya menemukannya di jalan. Hal ini mengindikasikan potensi kelangkaan atau kesulitan akses terhadap gas melon di masyarakat.",
+                "validitas": "Accept",
+                "topik": "Kelangkaan gas melon"
+            }
+        }
+    ]
+}
