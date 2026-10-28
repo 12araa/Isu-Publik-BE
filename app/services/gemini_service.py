@@ -22,7 +22,7 @@ client = genai.Client(api_key=GEMINI_API_KEY)
 # 1. BUAT BLUEPRINT SCHEMA JSON (Diselaraskan dengan Class Diagram)
 class AnalisisIsu(BaseModel):
     id_postingan: str = Field(description="Salin persis id_postingan dari teks input")
-    kategori: str = Field(description="Pilih satu: Lalu Lintas, Ekonomi dan Bisnis, Bencana Alam, Infrastruktur, Pariwisata, Layanan Publik, Sosial/Budaya, Politik Lokal")
+    kategori: str = Field(description="Pilih satu: Lalu Lintas, Ekonomi dan Bisnis, Lingkungan, Infrastruktur, Pariwisata, Layanan Publik, Sosial dan Budaya, Politik Lokal")
     lokasi_terdeteksi: str = Field(description="Ekstrak nama jalan, desa, kecamatan, atau landmark di Bali. Jika tidak ada, isi 'Tidak Spesifik'")
     ringkasan_ai: str = Field(description="Buat 1-3 kalimat ringkasan padat tentang inti kejadiannya")
     validitas: str = Field(description="Isi 'Accept' jika isu publik valid, atau 'Reject' jika hanya iklan/spam/info wisata biasa/komersial")
