@@ -222,6 +222,22 @@ def get_semua_isu(limit=100):
         print(f"⚠️ Gagal mengambil data dari Qdrant: {str(e)}")
         raise e
 
+def update_payload_isu(id_vektor: str, topik_baru: str, teks_baru: str, kategori_baru: str, status_arsip: bool):
+    try:
+        client.set_payload(
+            collection_name=COLLECTION_NAME,
+            payload={
+                "ringkasan_ai": teks_baru,
+                "kategori": kategori_baru,
+                "is_archived": status_arsip
+            },
+            points=[id_vektor]
+        )
+        return True
+    except Exception as e:
+        print(f"⚠️ Gagal memperbarui payload isu: {str(e)}")
+        return False
+
     
 if __name__ == "__main__":
     print("=== Memulai Sinkronisasi Qdrant Cloud ===")

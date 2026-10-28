@@ -3,7 +3,10 @@ from fastapi import APIRouter, Depends, HTTPException
 from app.utils.auth_middleware import verifikasi_admin
 from app.services import qdrant_service
 
-router = APIRouter()
+router = APIRouter(
+    prefix="/api/admin",
+    tags=["Admin"]
+)
 
 # 1. SKEMA DATA YANG DITERIMA DARI VUE.JS
 class UpdateIsuRequest(BaseModel):
